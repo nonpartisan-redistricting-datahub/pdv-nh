@@ -14,8 +14,6 @@ RDH's election result validation report is available [here](https://redistrictin
 
 ## vest-nh-2018
 
-[In progress]
-
 RDH's partner data validation for VEST's 2018 NH file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4302290&datasetVersionId=251384).
 
 RDH's election result validation report is available [here](https://redistrictingdatahub.org/dataset/vest-2018-new-hampshire-precinct-and-election-results/). To request a full validation report, please email info@redistrictingdatahub.org. 
