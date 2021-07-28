@@ -20,7 +20,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
    - File: `documentation.txt`
 - File: Precinct Level Election results, 2020
   - Date accessed: 7/16/2021
-  - Link: https://sos.nh.gov/elections/elections-statistics.html
+  - Link: https://sos.nh.gov/elections/elections/election-results/2020/general-election/
 - File: U.S. Census Bureau's 2020 Redistricting Data Program Phase 2 release
   - Date accessed: 7/16/2021
   - Link: https://www.census.gov/geo/partnerships/pvs/partnership20v2/st20_nh.html
