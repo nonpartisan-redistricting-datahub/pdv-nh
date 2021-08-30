@@ -12,7 +12,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 - File: VEST NH General 2016 file
    - Date accessed: 7/28/2021
-   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4499009&datasetVersionId=251765
+   - Link: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/TGOLVW&version=67.0
    - File: `nh_2016.zip`
 - File: VEST NH Presidential Primary 2016 file
    - Date accessed: 7/28/2021
